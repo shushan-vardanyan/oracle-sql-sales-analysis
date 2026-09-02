@@ -63,15 +63,15 @@ The project also considers data quality issues, such as transactions without cor
 | Path                      | Contents                                                 |
 | ------------------------- | -------------------------------------------------------- |
 | `sql/`                    | SQL queries organized by analytical task                 |
-| `docs/Project.docx`       | Original assignment and table descriptions               |
-| `docs/final_project.docx` | SQL solutions, findings, and recommendations in Armenian |
+| `database_structure.docx`       | Original assignment and table descriptions               |
+| `analysis.docx` | SQL solutions, findings, and recommendations |
 | `README.md`               | Project overview and execution requirements              |
 
 ## How to Run
 
 1. Use an Oracle Database environment, such as a workspace accessed through Oracle APEX.
 2. Ensure that the five required tables and their data are available in your schema.
-3. Open a query from the `sql/` folder.
+3. Open a query from the `SQL/` folder.
 4. Run the query using Oracle APEX SQL Workshop or another Oracle-compatible SQL client.
 
 The original tables and data were provided in a learning environment. Database creation scripts and source data are not included in this repository.
